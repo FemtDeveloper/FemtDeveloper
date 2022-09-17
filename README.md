@@ -1,0 +1,41 @@
+# Hi, I’m Felix Miranda
+
+I´m a **Frontend developer** who works specially with **React js and Next js**
+
+I also have been working in the Backend with technologies like Python, Node js; Databases with MongoDb and PostgreSQL and often with Prisma.
+
+Here is my portfolio  :arrow_down::arrow_down: Click here
+
+[![Portafolio](https://res.cloudinary.com/costeecon1/image/upload/c_scale,w_435/v1663375433/lpkvom8m8xt2cwd4rnva.png)](https://www.mirandadeveloper.com/)
+
+
+:computer: I´m a person who is always learning and improving skills to become a better developer, I don't give up on problems and I'm a good teammate
+
+### **Now freelancer**
+
+### _Open to work_
+
+# Skills
+- HTML - CSS
+- Javascript
+- Typescript
+- React js
+- Next js
+- Python
+- Node
+- PostgreSQL with Prisma
+- MongoDB
+- Material UI - Bootstrap
+
+
+
+## Contact me
+
+- :email: feedmite@hotmail.com
+- :telephone: +573507107300
+- :large_blue_diamond: [LinkedIn](https://www.linkedin.com/in/fmirandat/)
+
+<!---
+FemtDeveloper/FemtDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
