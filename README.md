@@ -11,7 +11,7 @@ Here is my portfolio  :arrow_down::arrow_down: Click here
 
 :computer: I´m a person who is always learning and improving skills to become a better developer, I don't give up on problems and I'm a good teammate
 
-### **Now freelancer**
+### 
 
 ### _Open to work_
 
