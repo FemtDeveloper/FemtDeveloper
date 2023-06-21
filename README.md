@@ -6,7 +6,7 @@ I also have been working in the Backend with technologies like Python, Node js; 
 
 Here is my portfolio  :arrow_down::arrow_down: Click here
 
-[![Portafolio](https://firebasestorage.googleapis.com/v0/b/my-images-ed5a3.appspot.com/o/images%2Ffront.jpeg?alt=media&token=57d23d86-9555-4b13-9ef6-0984d2e320bb)](https://www.mirandadeveloper.com/)
+[![Portafolio](https://firebasestorage.googleapis.com/v0/b/my-images-ed5a3.appspot.com/o/images%2Ffront.jpeg?alt=media&token=57d23d86-9555-4b13-9ef6-0984d2e320bb)](https://www.mirandadev.com/)
 
 
 :computer: I´m a person who is always learning and improving skills to become a better developer, I don't give up on problems and I'm a good teammate
