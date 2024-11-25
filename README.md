@@ -17,6 +17,8 @@ Here is my portfolio  :arrow_down::arrow_down: Click here
 
 # Skills
 - HTML - CSS
+- Tailwind CSS
+- React Native
 - Javascript
 - Typescript
 - React js
